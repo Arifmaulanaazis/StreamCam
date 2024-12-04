@@ -19,9 +19,9 @@ StreamCam is a powerful desktop application designed to enhance your streaming e
 ## Screenshoot
 Here are some screenshots of the application in action:
 
-![Main App](screenshots/mainapp.png)
-![Menu App](screenshots/menu.png)
-![Camera Menu App](screenshots/cameramenu.png)
+![Main App](screenshoot/mainapp.png)
+![Menu App](screenshoot/menu.png)
+![Camera Menu App](screenshoot/cameramenu.png)
 
 
 ## Installation
