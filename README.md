@@ -15,6 +15,15 @@ StreamCam is a powerful desktop application designed to enhance your streaming e
 - **Customizable Interface**: Intuitive interface with right-click context menu for quick actions like switching cameras and more.
 - **No Window Frame**: The app has no window frame and stays always on top for easy access while streaming.
 
+
+## Screenshoot
+Here are some screenshots of the application in action:
+
+![Main App](screenshots/mainapp.png)
+![Menu App](screenshots/menu.png)
+![Camera Menu App](screenshots/cameramenu.png)
+
+
 ## Installation
 
 To get started with StreamCam, follow these steps:
